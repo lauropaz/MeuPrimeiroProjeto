@@ -1,6 +1,10 @@
 language: java
 jdk:
+<<<<<<< HEAD
   - oraclejdk8
+=======
+  - openjdk8
+>>>>>>> 0f0e8a573f7759432c350aa738d884c27dd5dbdf
   
 before_install:
   - chmod +x mvnw
